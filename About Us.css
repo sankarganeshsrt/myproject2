@@ -1,0 +1,35 @@
+.about-us {
+    background-image: url("https://wallpaperaccess.com/full/1567855.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 0;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  h2 {
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    h2 {
+      font-size: 30px;
+    }
+  
+    p {
+      font-size: 16px;
+    }
+  }
+  
